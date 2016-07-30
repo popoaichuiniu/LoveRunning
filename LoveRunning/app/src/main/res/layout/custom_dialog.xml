@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:orientation="vertical"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:background="@drawable/dialog_bac"
+android:paddingTop="16dp"
+android:paddingBottom="16dp"
+android:paddingLeft="16dp"
+android:paddingRight="16dp"
+android:layout_gravity="center">
+
+<TextView
+    android:id="@+id/textView_dialog"
+    android:layout_width="match_parent"
+    android:layout_height="0dp"
+    android:gravity="center"
+    android:textSize="15sp"
+    android:layout_weight="4" />
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="0dp"
+    android:layout_weight="2"
+    android:orientation="horizontal"
+
+    >
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="match_parent"></LinearLayout>
+
+    <Button
+        android:layout_width="0dp"
+        android:layout_weight="3"
+        android:id="@+id/button_dialogY"
+        android:layout_height="match_parent"
+        android:background="@drawable/dialog_button" />
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="match_parent"></LinearLayout>
+
+    <Button
+        android:layout_width="0dp"
+        android:layout_weight="3"
+        android:layout_height="match_parent"
+        android:id="@+id/button_dialogN"
+        android:background="@drawable/dialog_button" />
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="match_parent"></LinearLayout>
+</LinearLayout>
+
+
+</LinearLayout>

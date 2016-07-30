@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group>
+        <item
+            android:id="@+id/personal_info"
+            android:icon="@drawable/personal_info"
+            android:title="个人资料" />
+        <item
+            android:id="@+id/record_running"
+            android:icon="@drawable/record"
+            android:title="跑步记录" />
+        <item
+            android:id="@+id/total_distance"
+            android:icon="@drawable/total_distance"
+            android:title="累计距离" />
+        <item
+            android:id="@+id/total_time"
+            android:icon="@drawable/total_time"
+            android:title="累计时间" />
+    </group>
+
+    <item android:title="个人最佳成绩">
+        <menu>
+            <item
+                android:id="@+id/longest_distance"
+                android:icon="@drawable/longest_distance"
+                android:title="最长距离" />
+            <item
+                android:id="@+id/longest_time"
+                android:icon="@drawable/longest_time"
+                android:title="最长时间" />
+        </menu>
+    </item>
+    <item android:title="系统">
+        <menu>
+            <item
+                android:id="@+id/setting"
+                android:icon="@drawable/setting"
+                android:title="设置" />
+        </menu>
+
+
+    </item>
+
+</menu>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0077d9</color><!--基色-->
+    <color name="colorPrimaryDark">#006cc5</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="black">#000000</color>
+    <color name="black_thin">#333333</color>
+    <color name="transWhite">#40FFFFFF</color>
+    <color name="white_bac_btn_pressed">#44888888</color>
+    <color name="white_btn_around">#44AAAAAA</color>
+    <color name="white">#FFFFFF</color>
+    <color name="colorStart">#99d468</color>
+    <color name="colorStart_pressed">#64a72d</color>
+    <color name="colorBlue">#05a0cd</color>
+    <color name="colorBlueFat">#076bf4</color>
+    <color name="colorEnd">#ed5466</color>
+    <color name="colorEnd_pressed">#bd2d3e</color>
+    <color name="colorYellow">#f6bb43</color>
+    <color name="transparent">#00000000</color>
+    <color name="shadow">#23FFFFFF</color>
+    <color name="itemBackground">#f6f6f6</color>
+    <!--toolBar menu-->
+    <color name="text_color">#6d6d6d</color>
+    <color name="backgroud_color">#eeeeee</color>
+</resources>

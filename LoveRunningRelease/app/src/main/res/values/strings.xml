@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">gallop</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+    <!--menu-->
+    <string name="action_my_location">我的位置</string>
+    <string name="action_satellite_model">卫星地图</string>
+    <string name="action_normal_model">普通地图</string>
+    <string name="title_activity_running_model">跑步模式</string>
+    <string name="title_activity_time_choose_model">TimeChooseModel</string>
+    <string name="title_activity_distance_choose_model">DistanceChooseModel</string>
+    <string name="title_activity_welcome">WelcomeActivity</string>
+
+
+
+</resources>

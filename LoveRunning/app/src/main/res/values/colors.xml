@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2a78dc</color>
+    <color name="colorBlue">#05a0cd</color>
+    <color name="colorBlueFat">#076bf4</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorStart">#99d468</color>
+    <color name="colorStart_pressed">#64a72d</color>
+    <color name="colorPause">#f6bb43</color>
+    <color name="colorEnd">#ed5466</color>
+    <color name="colorEnd_pressed">#bd2d3e</color>
+    <color name="white">#F0F0F0</color>
+    <color name="thin_white">#E0E0E0</color>
+    <color name="black">#292a2f</color>
+    <color name="button_white">#dedcdc</color>
+    <color name="button_white_stroke">#d1d1d1</color>
+    <color name="button_white_pressed">#9b9a9a</color>
+    <color name="button_white_stroke_pressed">#919191</color>
+    <color name="transparent">#00000000</color>
+    <color name="shadow">#23FFFFFF</color>
+    <color name="yellow">#f6bb43</color>
+    <color name="fat_yellow">#bd9035</color>
+    <color name="transparentBlack">#35000000</color>
+    <color name="transparentBlackFat">#56000000</color>
+
+    <color name="black_overlay">#66000000</color>
+
+</resources>
